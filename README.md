@@ -4,6 +4,10 @@ _By Dipanjan Sarkar, Pin-Yu Chen, Sayak Paul_
 
 Contains tutorial notebooks for [our tutorial at CVPR 2021](https://sites.google.com/view/par-2021). 
 
+<p align="center">
+<img src=https://i.ibb.co/BrvTYZY/image.png width=800></img>
+</p>
+
 ## Outline 
 
 A detailed outline is available [on the website](https://sites.google.com/view/par-2021#outline). 
