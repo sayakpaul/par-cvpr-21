@@ -1,6 +1,6 @@
 # Practical Adversarial Robustness in Deep Learning: Problems and Solutions (PAR)
 
-_By Dipanjan Sarkar, Pin-Yu Chen, Sayak Paul_
+_By [Pin-Yu Chen](https://www.pinyuchen.com) (IBM Research) and [Sayak Paul](https://sayak.dev) (Carted)_
 
 Contains tutorial notebooks for [our tutorial at CVPR 2021](https://sites.google.com/view/par-2021). 
 
