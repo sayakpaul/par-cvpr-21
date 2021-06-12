@@ -2,7 +2,7 @@
 
 _By [Pin-Yu Chen](https://www.pinyuchen.com) (IBM Research) and [Sayak Paul](https://sayak.dev) (Carted)_
 
-Contains tutorial notebooks for [our tutorial at CVPR 2021](https://sites.google.com/view/par-2021). 
+Contains tutorial notebooks for [our tutorial at CVPR 2021](https://sites.google.com/view/par-2021). Slides are available [here](https://docs.google.com/presentation/d/1z8t0YafD94RWw3bg_AaDL6e667gfHoRyvAxZWD1j-FY/edit?usp=sharing).
 
 <p align="center">
 <img src=https://i.ibb.co/BrvTYZY/image.png width=800></img>
@@ -25,3 +25,7 @@ The notebooks are fully runnable on Google Colab. Here are the steps -
 * TensorFlow (2.5)
 * Foolbox
 * Neural Structured Learning
+
+## Acknowledgements
+
+[ML-GDE](https://developers.google.com/programs/experts/) program for providing Google Cloud Platform credits that were used to conduct our experiments. 
