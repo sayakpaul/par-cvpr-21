@@ -12,7 +12,7 @@ Contains tutorial notebooks for [our tutorial at CVPR 2021](https://sites.google
 
 A detailed outline is available [on the website](https://sites.google.com/view/par-2021#outline). 
 
-We provide Jupyter Notebooks to demonstrate the topics mentioned above. These notebook are fully runnable on Google Colab without any non-trivial configurations.
+We provide Jupyter Notebooks to demonstrate some of the topics mentioned in the outline. These notebooks are fully runnable on Google Colab without any non-trivial configurations.
 
 ## How to run the notebooks?
 
