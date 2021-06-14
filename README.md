@@ -17,14 +17,15 @@ We provide Jupyter Notebooks to demonstrate some of the topics mentioned in the 
 ## How to run the notebooks?
 
 The notebooks are fully runnable on [Google Colab](https://colab.research.google.com/). Here are the steps - 
+
 * First, get the [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo?hl=en) Google Chrome extension. 
 * Follow [this screencast](https://www.loom.com/share/602f3d0823ae40e3b6d5a8187d421a37) that shows how to navigate to a particular notebook inside this repository and open it in Google Colab. 
 
 ## Major libraries used
 
-* TensorFlow (2.5)
-* Foolbox
-* Neural Structured Learning
+* [TensorFlow (2.5)](https://www.tensorflow.org/)
+* [Neural Structured Learning](https://www.tensorflow.org/neural_structured_learning)
+* [Foolbox](https://foolbox.readthedocs.io/)
 
 ## Acknowledgements
 
