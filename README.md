@@ -23,7 +23,8 @@ The notebooks are fully runnable on [Google Colab](https://colab.research.google
 
 ## Major libraries used
 
-* [TensorFlow (2.5)](https://www.tensorflow.org/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Keras](https://keras.io)
 * [Neural Structured Learning](https://www.tensorflow.org/neural_structured_learning)
 * [Foolbox](https://foolbox.readthedocs.io/)
 
